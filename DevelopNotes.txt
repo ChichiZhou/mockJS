@@ -1,0 +1,6 @@
+提供了 mockjs 的用法
+1.mock get
+2.mock post
+3.mock 带参URL
+4.mock 随机函数
+5.mock 自定义随机函数
